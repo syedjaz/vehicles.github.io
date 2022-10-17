@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+{font-family: 'Racing Sans One', cursive;}
+{font-family: 'Oswald', sans-serif;}
+
+.card-body
+{ font-size: 15px;}
+.card-body h5
+{ color:#8AA899;
+font-family: 'Racing Sans One', cursive;}
+.card:hover
+{ border-bottom:#8AA899 inset 8px;
+  box-shadow: 2px 2px 3px 3px rgba(0,0,0,0.1);}
